@@ -75,7 +75,7 @@ Classics for software documentation include:
 
 - [Open SUSE Style Guide](https://documentation.suse.com/style/current/single-html/docu_styleguide/)
 - [gnome Style Guide](https://developer.gnome.org/gdp-style-guide/2.32/gdp-style-guide.html)
-- [Write the Docs Official Website Style Guide](/guide/writing/style-guides)
+- [Write the Docs Official Website Style Guide](/style-guide)
 
 
 ## Thinking about accessibility and bias
